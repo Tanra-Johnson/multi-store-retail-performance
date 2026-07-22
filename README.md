@@ -1,4 +1,4 @@
-# Multi-Store Retail Performance Analysis
+# Multi-Store Retail Sales Performance Analysis
 
 ## Project Overview
 
